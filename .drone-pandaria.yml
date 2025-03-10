@@ -28,7 +28,7 @@ steps:
     when:
       ref:
         include:
-          - "refs/heads/pandaria"
+          - "refs/heads/hami"
       event:
         - push
 
